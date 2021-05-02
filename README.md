@@ -1,4 +1,4 @@
-# BankersAlgorithm
+# InMyMajor3_BankersAlgorithm
 Deadlock(교착상태) 회피를 위한 Banker's Algorithm 구현
 
 - 모든 프로세스가 교착상태를 발생시키지 않고 종료할 수 있도록 하는 자원 할당 순서가 존재하는 경우를 안정 상태라고 한다. 운영체제는 이러한 안정상태를 유지하려 한다.
